@@ -127,7 +127,9 @@
     ' (↑↓ to select)': ' (↑↓ 键选择)',
     'Empty With Icon': '空白有图标',
     'Empty': '空白',
-    'Database': '数据库'
+    'Database': '数据库',
+
+    'Small Text': '小文字'
   });
 
 
